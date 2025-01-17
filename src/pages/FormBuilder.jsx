@@ -1,3 +1,4 @@
+import React from 'react';
 import { useMemo } from 'react';
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
 import TextInput from '../components/TextInput';

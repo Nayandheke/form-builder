@@ -1,3 +1,4 @@
+import React from 'react';
 const SelectInput = ({ label, options = [], value, onChange }) => (
   <div>
     <label className="form-label">{label}</label>

@@ -1,3 +1,4 @@
+import React from 'react';
 const FormPreview = React.memo(({ formSchema }) => {
   const generateJSONSchema = () => {
     return formSchema.map((field) => ({

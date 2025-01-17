@@ -1,3 +1,4 @@
+import React from 'react';
 const CheckboxInput = ({ label, checked, onChange }) => (
   <div className="form-check">
     <input

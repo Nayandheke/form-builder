@@ -1,3 +1,4 @@
+import React from 'react';
 const TextInput = ({ label, value, onChange }) => (
   <div>
     <label className="form-label">{label}</label>
